@@ -1,0 +1,37 @@
+{
+    "app": {
+        "name": "YouTube Downloader",
+        "brand": "Miyabi Core",
+        "version": "1.0.0"
+    },
+    "paths": {
+        "base_dir": ".",
+        "yt_dlp_exe": "yt-dlp.exe",
+        "yt_dlp_conf": "yt-dlp.conf",
+        "aria2c_exe": "aria2/aria2c.exe",
+        "ffmpeg_dir": "ffmpeg/bin",
+        "ffmpeg_exe": "ffmpeg/bin/ffmpeg.exe",
+        "ffprobe_exe": "ffmpeg/bin/ffprobe.exe",
+        "downloads_dir": "Downloads",
+        "logs_dir": "Logs",
+        "temp_dir": "Temp",
+        "assets_dir": "Assets"
+    },
+    "download": {
+        "use_aria2": true,
+        "concurrent_fragments": 5,
+        "aria2_max_connection_per_server": 16,
+        "aria2_split": 16,
+        "output_template": "%(title)s [%(id)s].%(ext)s",
+        "audio_format": "mp3",
+        "audio_quality": "192",
+        "merge_output_format": "mp4"
+    },
+    "theme": {
+        "primary": "green",
+        "secondary": "white",
+        "success": "green",
+        "warning": "yellow",
+        "error": "red"
+    }
+}
