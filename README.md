@@ -120,4 +120,4 @@ The resulting `dist/YouTube-Downloader.exe` can be placed anywhere; on first run
 
 ## Disclaimer
 
-Tool ini dibuat untuk keperluan edukasi dan penggunaan pribadi/legal. Pengguna bertanggung jawab penuh untuk memastikan penggunaan tool ini sesuai dengan Terms of Service YouTube serta hukum hak cipta yang berlaku di wilayah masing-masing. Developer tidak bertanggung jawab atas penyalahgunaan tool ini.
+This tool is created for educational purposes and personal/legal use only. Users are solely responsible for ensuring that their use of this tool complies with YouTube's Terms of Service and applicable copyright laws in their respective jurisdictions. The developer assumes no responsibility or liability for any misuse of this tool.
